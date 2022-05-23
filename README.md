@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+I'm working at Alibaba now and living in NanJing
+
+I'm a frontend developer with some years working experience
+
+I'm interested in JavaScript
+
 <!--
 **weiqingting/weiqingting** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
